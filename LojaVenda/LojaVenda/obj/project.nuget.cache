@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1S2+6dEKe5fhzSPZJUu1L/2JHuArKXcWdITi26g3J72wSfZoLpkEvYHg9+/dGYlELNE6GtQQt4mwUKuiyyDVg==",
+  "dgSpecHash": "aAkobKaMNYx/UplCPPDvMhumkZBuPyv6hcJkbCAOthUPyziGEfaPnigAsYAEc8wYq+Y0LJeMHDYKeUIX+cVFOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
+  "projectFilePath": "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SENAI3EM\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

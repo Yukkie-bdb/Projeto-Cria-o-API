@@ -20,7 +20,7 @@ namespace SistemaTarefas.Controllers
         public async Task<ActionResult<List<usuarioModel>>> BuscaTodosUsuarios()
         {
             List<usuarioModel> usuarios = await _usuariosRepositorios.BuscaTodosUsuarios();
-            return Ok();
+            return Ok(usuarios);
         }
 
         [HttpGet("{id}")]

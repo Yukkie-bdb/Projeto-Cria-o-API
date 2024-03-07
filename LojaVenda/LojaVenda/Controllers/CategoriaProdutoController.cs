@@ -20,7 +20,7 @@ namespace SistemaTarefas.Controllers
         public async Task<ActionResult<List<categoriaProdutoModel>>> BuscaTodoscategoriaProdutos()
         {
             List<categoriaProdutoModel> categorias = await _categoriasRepositorios.BuscaTodoscategoriaProdutos();
-            return Ok();
+            return Ok(categorias);
         }
 
         [HttpGet("{id}")]

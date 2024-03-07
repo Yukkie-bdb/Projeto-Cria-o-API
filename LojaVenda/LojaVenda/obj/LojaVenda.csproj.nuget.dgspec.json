@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\LojaVenda.csproj": {}
+    "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\LojaVenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\LojaVenda.csproj": {
+    "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\LojaVenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
+        "projectUniqueName": "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
         "projectName": "LojaVenda",
-        "projectPath": "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
+        "projectPath": "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\LojaVenda.csproj",
         "packagesPath": "C:\\Users\\SENAI3EM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAI3EM\\Desktop\\LojaVenda\\LojaVenda\\obj\\",
+        "outputPath": "C:\\Users\\SENAI3EM\\Desktop\\Projeto Criação de Api\\LojaVenda\\LojaVenda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
