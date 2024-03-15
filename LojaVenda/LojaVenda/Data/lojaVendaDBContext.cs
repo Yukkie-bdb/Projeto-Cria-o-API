@@ -14,6 +14,7 @@ namespace SistemaTarefas.Data
         public DbSet<categoriaProdutoModel> categoriaProduto { get; set; }
         public DbSet<produtoModel> Produtos { get; set; }
 
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new UsuarioMap());

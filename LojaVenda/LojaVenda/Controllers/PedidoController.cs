@@ -1,10 +1,12 @@
 ﻿using LojinhaVendas.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SistemaTarefas.Data.Map;
 using SistemaTarefas.Repositorio.Interfaces;
 
 namespace SistemaTarefas.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PedidoController : ControllerBase
